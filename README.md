@@ -1,7 +1,7 @@
 # BMX_ABS
 https://github.com/dzanis/BMX_ABS
 
-![Alt text](https://github.com/dzanis/BMX_ABS/blob/master/screenshot.png)
+![ABS модуль](/images/abs_module.png)
 
 BMX_ABS это проект для контроллера антиблокировочного тормозного модуля для велосипеда 
 (или друго транспорта)
