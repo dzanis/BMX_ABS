@@ -7,7 +7,7 @@
 #define PIN_PUMP 4 // пин подключенный к насосу
 
 #define IMPULSES_PER_SEC 25 // импульсов в секунду (10км/ч)
-#define CHECK_INTERVAL_MS 100 // интервал проверки в миллисекундах
+#define CHECK_INTERVAL_MS 80 // интервал проверки в миллисекундах
 // максимальное количество импульсов за интервал проверки 
 #define MAX_IMPULSES_PER_CHECK_INTERVAL (CHECK_INTERVAL_MS/(1000/IMPULSES_PER_SEC))
 
